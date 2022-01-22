@@ -34,7 +34,5 @@ public class JavaUtility {
 			int MM = date.getMonth()+1;
 			String finalFormat = YYYY +"-"+MM+"-"+DD;
 			return finalFormat;
-		}
-		
-		
+		}	
 }
