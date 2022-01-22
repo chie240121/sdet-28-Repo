@@ -55,7 +55,8 @@ public class CreateOrganization3Test extends BaseClass {
 		else {
 			System.out.println("organization is not created");
 		}
-			
+		System.out.println("these all were waste..!!");	
+		
 	}
 
 }
