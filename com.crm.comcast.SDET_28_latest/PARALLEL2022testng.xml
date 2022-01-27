@@ -3,37 +3,37 @@
 <suite name="Suite" parallel = "tests" thread-count="4">
   <test  name="Test1">
     <classes>
-      <class name="purchaseOrder.CreatePurchaseOrderAndSelectTeamSelling_Test"/>
-      <class name="purchaseOrder.CreatePurchaseOrderAndSelectBillingAddress_Test"/>
-      <class name="purchaseOrder.CreatePurchaseOrderAndSelectShippingAddress_Test"/>
-      <class name="purchaseOrder.CreatePurchaseOrderAndCopyShippingAddrs_Test"/>
+      <class name="purchaseOrderTest.CreatePurchaseOrderAndSelectTeamSelling_Test"/>
+      <class name="purchaseOrderTest.CreatePurchaseOrderAndSelectBillingAddress_Test"/>
+      <class name="purchaseOrderTest.CreatePurchaseOrderAndSelectShippingAddress_Test"/>
+      <class name="purchaseOrderTest.CreatePurchaseOrderAndCopyShippingAddrs_Test"/>
     </classes>
   </test> <!-- Test -->
   
   <test  name="Test2">
     <classes>
-      <class name="purchaseOrder.CreatePurchaseOrderAndSelectTeamSelling_Test"/>
-      <class name="purchaseOrder.CreatePurchaseOrderAndSelectBillingAddress_Test"/>
-      <class name="purchaseOrder.CreatePurchaseOrderAndSelectShippingAddress_Test"/>
-      <class name="purchaseOrder.CreatePurchaseOrderAndCopyShippingAddrs_Test"/>
+      <class name="purchaseOrderTest.CreatePurchaseOrderAndSelectTeamSelling_Test"/>
+      <class name="purchaseOrderTest.CreatePurchaseOrderAndSelectBillingAddress_Test"/>
+      <class name="purchaseOrderTest.CreatePurchaseOrderAndSelectShippingAddress_Test"/>
+      <class name="purchaseOrderTest.CreatePurchaseOrderAndCopyShippingAddrs_Test"/>
     </classes>
   </test> <!-- Test -->
   
   <test  name="Test3">
     <classes>
-      <class name="purchaseOrder.CreatePurchaseOrderAndSelectTeamSelling_Test"/>
-      <class name="purchaseOrder.CreatePurchaseOrderAndSelectBillingAddress_Test"/>
-      <class name="purchaseOrder.CreatePurchaseOrderAndSelectShippingAddress_Test"/>
-      <class name="purchaseOrder.CreatePurchaseOrderAndCopyShippingAddrs_Test"/>
+      <class name="purchaseOrderTest.CreatePurchaseOrderAndSelectTeamSelling_Test"/>
+      <class name="purchaseOrderTest.CreatePurchaseOrderAndSelectBillingAddress_Test"/>
+      <class name="purchaseOrderTest.CreatePurchaseOrderAndSelectShippingAddress_Test"/>
+      <class name="purchaseOrderTest.CreatePurchaseOrderAndCopyShippingAddrs_Test"/>
     </classes>
   </test> <!-- Test -->
   
   <test  name="Test4">
     <classes>
-      <class name="purchaseOrder.CreatePurchaseOrderAndSelectTeamSelling_Test"/>
-      <class name="purchaseOrder.CreatePurchaseOrderAndSelectBillingAddress_Test"/>
-      <class name="purchaseOrder.CreatePurchaseOrderAndSelectShippingAddress_Test"/>
-      <class name="purchaseOrder.CreatePurchaseOrderAndCopyShippingAddrs_Test"/>
+      <class name="purchaseOrderTest.CreatePurchaseOrderAndSelectTeamSelling_Test"/>
+      <class name="purchaseOrderTest.CreatePurchaseOrderAndSelectBillingAddress_Test"/>
+      <class name="purchaseOrderTest.CreatePurchaseOrderAndSelectShippingAddress_Test"/>
+      <class name="purchaseOrderTest.CreatePurchaseOrderAndCopyShippingAddrs_Test"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

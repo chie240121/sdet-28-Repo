@@ -1,4 +1,4 @@
-package com.crm.comcast.GenricUtility;
+ package com.crm.comcast.GenricUtility;
 
 import java.io.File;
 
@@ -14,7 +14,6 @@ public class ListenerImplementationClass extends BaseClass implements ITestListe
 	
 	@Override
 	public void onTestSuccess(ITestResult result) {
-		// TODO Auto-generated method stub
 
 	}
 

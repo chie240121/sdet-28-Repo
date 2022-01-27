@@ -8,8 +8,8 @@
 </groups>
   <test thread-count="5" name="Test">
     <classes>
-      <class name="purchaseOrder.CreatePurchaseOrderAndSelectBillingAddress_Test"/>
-      <class name="purchaseOrder.CreatePurchaseOrderAndCopyShippingAddrs_Test"/>
+      <class name="purchaseOrderTest.CreatePurchaseOrderAndSelectBillingAddress_Test"/>
+      <class name="purchaseOrderTest.CreatePurchaseOrderAndCopyShippingAddrs_Test"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

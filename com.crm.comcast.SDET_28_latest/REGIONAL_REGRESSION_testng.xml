@@ -3,9 +3,9 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
     <classes>
-      <class name="purchaseOrder.CreatePurchaseOrderAndCopyShippingAddrs_Test">
+      <class name="purchaseOrderTest.CreatePurchaseOrderAndCopyShippingAddrs_Test">
       <methods>
-      <include name = "createPurchaseOrderAndCopyShippingAddrs"/>
+      <include name = "createPurchaseOrderAndCopyShippingAddrsTest"/>
       </methods>
       </class>
     </classes>
